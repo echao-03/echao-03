@@ -7,6 +7,6 @@ My name is Erik, and I'm a research assistant @ The Social Emotional Technology 
 - 🌱 I'm currently learning advanced operating systems.
 - 📰 All of my projects/work is displayed on my website [www.erikchao.com](https://www.erikchao.com/)
 - :mailbox: Want to talk about a project or just anything? Feel free to reach out to my email: <etchao@ucsc.edu>
-- 🐈‍⬛
+- 🐱
 
 
